@@ -33,3 +33,5 @@ git log: vemos la evolucion de los estados de git
 touch : sirve para crear archivos 
 
 git restore readme.md : sirve para volver a un punto anterior
+
+Prueba de texto para comprobar la vuelta a un estado anterior a través de git restore
