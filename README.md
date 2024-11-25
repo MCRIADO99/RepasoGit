@@ -24,4 +24,11 @@ Luego podemos crear ramas (como develop) para no utilizar siempre la rama main
 git checkout -b develop : con checkout salimos de la rama main y entramos en -b para crear develop.
     Automaticamente se cambia
 
+git branch: vemos las ramas que hay y donde estamos *
+
+git log: vemos la evolucion de los estados de git
+
+-- comandos extra --
+
+touch : sirve para crear archivos 
 
